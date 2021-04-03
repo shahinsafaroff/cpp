@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/multi_dimensional_arrays/cmake-build-debug/CMakeFiles/multi_dimensional_arrays.dir
+C:/Users/shahins/CLionProjects/multi_dimensional_arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/multi_dimensional_arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

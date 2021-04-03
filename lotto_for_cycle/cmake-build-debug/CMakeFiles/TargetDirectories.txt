@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/lotto_for_cycle/cmake-build-debug/CMakeFiles/lotto_for_cycle.dir
+C:/Users/shahins/CLionProjects/lotto_for_cycle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/lotto_for_cycle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

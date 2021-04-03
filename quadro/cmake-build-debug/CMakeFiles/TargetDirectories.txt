@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/quadro/cmake-build-debug/CMakeFiles/quadro.dir
+C:/Users/shahins/CLionProjects/quadro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/quadro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

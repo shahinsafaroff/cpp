@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/entered_numbers_sum_of_middle/cmake-build-debug/CMakeFiles/entered_numbers_sum_of_middle.dir
+C:/Users/shahins/CLionProjects/entered_numbers_sum_of_middle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/entered_numbers_sum_of_middle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

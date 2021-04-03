@@ -1,0 +1,3 @@
+C:\Users\shahins\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\2_matrix_sum.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\2_matrix_sum.dir/objects.a @CMakeFiles\2_matrix_sum.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\2_matrix_sum.dir/objects.a -Wl,--no-whole-archive  -o 2_matrix_sum.exe -Wl,--out-implib,lib2_matrix_sum.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2_matrix_sum.dir\linklibs.rsp

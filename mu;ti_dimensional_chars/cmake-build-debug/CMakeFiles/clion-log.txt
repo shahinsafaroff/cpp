@@ -1,0 +1,187 @@
+C:\Users\shahins\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7717.62\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\shahins\CLionProjects\mu;ti_dimensional_chars
+CMake Warning (dev) at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake:185 (configure_file):
+  configure_file called with unknown argument(s):
+
+   ti_dimensional_chars/cmake-build-debug/CMakeFiles/3.17.5/CMakeSystem.cmake
+
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:223 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:234 (CMAKE_DETERMINE_COMPILER_ID_WRITE)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:32 (CMAKE_DETERMINE_COMPILER_ID_BUILD)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:881 (execute_process):
+  execute_process given unknown argument
+  "ti_dimensional_chars/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC".
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:60 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:905 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:60 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:881 (execute_process):
+  execute_process given unknown argument
+  "ti_dimensional_chars/cmake-build-debug/CMakeFiles/3.17.5/CompilerIdC".
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:60 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:905 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake:60 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)
+  C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:116 (CMAKE_DETERMINE_COMPILER_ID)
+  CMakeLists.txt:2 (project)
+
+
+-- The C compiler identification is unknown
+CMake Warning (dev) at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake:212 (configure_file):
+  configure_file called with unknown argument(s):
+
+   ti_dimensional_chars/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake
+
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error: Could not find cmake module file: C:/Users/shahins/CLionProjects/mu;ti_dimensional_chars/cmake-build-debug/CMakeFiles/3.17.5/CMakeCCompiler.cmake
+-- Check for working C compiler: C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:32 (file):
+  file failed to open for writing (Permission denied):
+
+    C:/Users/shahins/CLionProjects/mu
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Error: The source directory "ti_dimensional_chars/cmake-build-debug" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+CMake Error at C:/Users/shahins/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/203.7717.62/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:44 (try_compile):
+  Failed to configure test project build system.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!

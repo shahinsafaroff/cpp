@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/scanf/cmake-build-debug/CMakeFiles/scanf.dir
+C:/Users/shahins/CLionProjects/scanf/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/scanf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

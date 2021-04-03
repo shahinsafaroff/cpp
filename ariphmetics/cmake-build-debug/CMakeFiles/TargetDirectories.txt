@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/ariphmetics/cmake-build-debug/CMakeFiles/ariphmetics.dir
+C:/Users/shahins/CLionProjects/ariphmetics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/ariphmetics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
