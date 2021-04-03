@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/multiplication_table/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/multiplication_table/cmake-build-debug/CMakeFiles/multiplication_table.dir
+C:/Users/shako/CLionProjects/c++/multiplication_table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
