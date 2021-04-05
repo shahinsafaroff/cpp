@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/strings2/cmake-build-debug/CMakeFiles/strings2.dir
+C:/Users/shahins/CLionProjects/strings2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/strings2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
