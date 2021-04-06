@@ -15,11 +15,3 @@ string firstword(string s){
     return s;
 }
 
-
-
-// "+" concatenating
-//getline(cin, str) ----> gets full line of sentence or string from input
-//str[i] ----> for indexing
-//str.substr(index, length) -----> gets from index for known length of slice from word
-//str.length() -----> string elements length
-//str.find(s)

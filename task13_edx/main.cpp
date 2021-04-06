@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int maxabsinlst(int lst[], int n);
+int maxabsinlst(int lst[], int size);
 int lst[] = {-19, -3, 20, -1, 5, -25};
 
 int main() {
@@ -8,11 +8,11 @@ int main() {
     cout << "Largest count in given array is " << maxabsinlst(lst, size)<<endl;
     return 0;
 }
-int maxabsinlst(int lst[], int n){
+int maxabsinlst(int lst[], int size){
     int max = lst[0];
     int i;
 
-    for (i = 1; i < n; i++) {
+    for (i = 1; i < size; i++) {
             if (lst [i]>0 && lst[i] > max) {
                 max = lst[i];
             }else if (lst [i]<0){
