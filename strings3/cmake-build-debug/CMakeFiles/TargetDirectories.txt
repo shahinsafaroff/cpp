@@ -1,3 +1,0 @@
-C:/Users/shahins/CLionProjects/strings3/cmake-build-debug/CMakeFiles/strings3.dir
-C:/Users/shahins/CLionProjects/strings3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/shahins/CLionProjects/strings3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
