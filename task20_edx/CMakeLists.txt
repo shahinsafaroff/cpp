@@ -3,4 +3,4 @@ project(task20_edx)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(task20_edx main.cpp)
+add_executable(task20_edx remainingwords.cpp)

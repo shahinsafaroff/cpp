@@ -142,32 +142,32 @@ task10_edx/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/build
 .PHONY : task10_edx/fast
 
-main.obj: main.cpp.obj
+isleapyearf.obj: isleapyearf.cpp.obj
 
-.PHONY : main.obj
+.PHONY : isleapyearf.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+isleapyearf.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj
+.PHONY : isleapyearf.cpp.obj
 
-main.i: main.cpp.i
+isleapyearf.i: isleapyearf.cpp.i
 
-.PHONY : main.i
+.PHONY : isleapyearf.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/main.cpp.i
-.PHONY : main.cpp.i
+isleapyearf.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/isleapyearf.cpp.i
+.PHONY : isleapyearf.cpp.i
 
-main.s: main.cpp.s
+isleapyearf.s: isleapyearf.cpp.s
 
-.PHONY : main.s
+.PHONY : isleapyearf.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/main.cpp.s
-.PHONY : main.cpp.s
+isleapyearf.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\task10_edx.dir\build.make CMakeFiles/task10_edx.dir/isleapyearf.cpp.s
+.PHONY : isleapyearf.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... task10_edx
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... isleapyearf.obj
+	@echo ... isleapyearf.i
+	@echo ... isleapyearf.s
 .PHONY : help
 
 

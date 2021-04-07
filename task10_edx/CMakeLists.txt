@@ -3,4 +3,4 @@ project(task10_edx)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(task10_edx main.cpp)
+add_executable(task10_edx isleapyearf.cpp)

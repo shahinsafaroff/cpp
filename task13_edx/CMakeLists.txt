@@ -3,4 +3,4 @@ project(task13_edx)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(task13_edx main.cpp)
+add_executable(task13_edx maxabsinlst.cpp)

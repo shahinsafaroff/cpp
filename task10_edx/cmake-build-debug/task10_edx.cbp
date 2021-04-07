@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/shahins/CLionProjects/c++/task10_edx/main.cpp">
+		<Unit filename="C:/Users/shahins/CLionProjects/c++/task10_edx/isleapyearf.cpp">
 			<Option target="task10_edx"/>
 		</Unit>
 		<Unit filename="C:/Users/shahins/CLionProjects/c++/task10_edx/CMakeLists.txt">

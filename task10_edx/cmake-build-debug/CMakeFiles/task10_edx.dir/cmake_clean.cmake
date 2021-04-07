@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/task10_edx.dir/main.cpp.obj"
+  "CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj"
   "libtask10_edx.dll.a"
   "task10_edx.exe"
   "task10_edx.exe.manifest"

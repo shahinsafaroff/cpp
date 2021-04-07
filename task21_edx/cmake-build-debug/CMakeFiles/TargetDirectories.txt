@@ -1,0 +1,3 @@
+C:/Users/shahins/CLionProjects/c++/task21_edx/cmake-build-debug/CMakeFiles/task21_edx.dir
+C:/Users/shahins/CLionProjects/c++/task21_edx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shahins/CLionProjects/c++/task21_edx/cmake-build-debug/CMakeFiles/rebuild_cache.dir

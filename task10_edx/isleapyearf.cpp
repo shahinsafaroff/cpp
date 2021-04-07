@@ -2,18 +2,18 @@
 using namespace std;
 int year;
 
-bool checkYear(int inyear);
+bool isleapyear(int inyear);
 
 int main()
 {
     cin>>year;
 
-    checkYear(year) ? cout << "Leap Year":
+    isleapyear(year) ? cout << "Leap Year":
     cout << "Not a Leap Year";
     return 0;
 }
 
-bool checkYear(int inyear)
+bool isleapyear(int inyear)
 {
     if (inyear % 400 == 0)
         return true;
@@ -23,5 +23,5 @@ bool checkYear(int inyear)
 
     if (inyear % 4 == 0)
         return true;
-    return false;
+   return false;
 }

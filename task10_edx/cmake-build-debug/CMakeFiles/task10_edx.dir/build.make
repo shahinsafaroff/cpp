@@ -76,27 +76,27 @@ include CMakeFiles/task10_edx.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/task10_edx.dir/flags.make
 
-CMakeFiles/task10_edx.dir/main.cpp.obj: CMakeFiles/task10_edx.dir/flags.make
-CMakeFiles/task10_edx.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shahins\CLionProjects\c++\task10_edx\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task10_edx.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task10_edx.dir\main.cpp.obj -c C:\Users\shahins\CLionProjects\c++\task10_edx\main.cpp
+CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj: CMakeFiles/task10_edx.dir/flags.make
+CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj: ../isleapyearf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\shahins\CLionProjects\c++\task10_edx\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task10_edx.dir\isleapyearf.cpp.obj -c C:\Users\shahins\CLionProjects\c++\task10_edx\isleapyearf.cpp
 
-CMakeFiles/task10_edx.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task10_edx.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shahins\CLionProjects\c++\task10_edx\main.cpp > CMakeFiles\task10_edx.dir\main.cpp.i
+CMakeFiles/task10_edx.dir/isleapyearf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task10_edx.dir/isleapyearf.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\shahins\CLionProjects\c++\task10_edx\isleapyearf.cpp > CMakeFiles\task10_edx.dir\isleapyearf.cpp.i
 
-CMakeFiles/task10_edx.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task10_edx.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shahins\CLionProjects\c++\task10_edx\main.cpp -o CMakeFiles\task10_edx.dir\main.cpp.s
+CMakeFiles/task10_edx.dir/isleapyearf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task10_edx.dir/isleapyearf.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\shahins\CLionProjects\c++\task10_edx\isleapyearf.cpp -o CMakeFiles\task10_edx.dir\isleapyearf.cpp.s
 
 # Object files for target task10_edx
 task10_edx_OBJECTS = \
-"CMakeFiles/task10_edx.dir/main.cpp.obj"
+"CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj"
 
 # External object files for target task10_edx
 task10_edx_EXTERNAL_OBJECTS =
 
-task10_edx.exe: CMakeFiles/task10_edx.dir/main.cpp.obj
+task10_edx.exe: CMakeFiles/task10_edx.dir/isleapyearf.cpp.obj
 task10_edx.exe: CMakeFiles/task10_edx.dir/build.make
 task10_edx.exe: CMakeFiles/task10_edx.dir/linklibs.rsp
 task10_edx.exe: CMakeFiles/task10_edx.dir/objects1.rsp
