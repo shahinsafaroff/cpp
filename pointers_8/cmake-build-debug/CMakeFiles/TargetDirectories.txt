@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/pointers_8/cmake-build-debug/CMakeFiles/pointers_8.dir
+C:/Users/shako/CLionProjects/c++/pointers_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/pointers_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

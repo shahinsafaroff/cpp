@@ -1,0 +1,3 @@
+C:\Users\shako\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.6693.114\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\void_functions.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\void_functions.dir/objects.a @CMakeFiles\void_functions.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\void_functions.dir/objects.a -Wl,--no-whole-archive -o void_functions.exe -Wl,--out-implib,libvoid_functions.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\void_functions.dir\linklibs.rsp
