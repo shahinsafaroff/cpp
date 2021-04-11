@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/pointers_for__array_size_enlargening/cmake-build-debug/CMakeFiles/pointers_for__array_size_enlargening.dir
+C:/Users/shako/CLionProjects/c++/pointers_for__array_size_enlargening/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/pointers_for__array_size_enlargening/cmake-build-debug/CMakeFiles/rebuild_cache.dir

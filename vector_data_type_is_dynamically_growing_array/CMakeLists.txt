@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(vector_data_type_is_dynamically_growing_array)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(vector_data_type_is_dynamically_growing_array main.cpp)
