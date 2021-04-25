@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/classes_deconstrure_deleting constructor and it's referance/cmake-build-debug/CMakeFiles/classes_deconstrure_deleting_constructor_and_it_s_referance.dir
+C:/Users/shako/CLionProjects/c++/classes_deconstrure_deleting constructor and it's referance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/classes_deconstrure_deleting constructor and it's referance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

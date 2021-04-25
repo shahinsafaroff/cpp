@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(classes_deconstrure_deleting_constructor_and_it_s_referance)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(classes_deconstrure_deleting_constructor_and_it_s_referance main.cpp)
