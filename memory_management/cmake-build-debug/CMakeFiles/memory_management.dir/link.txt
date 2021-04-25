@@ -1,0 +1,3 @@
+C:\Users\shako\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\memory_management.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\memory_management.dir/objects.a @CMakeFiles\memory_management.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\memory_management.dir/objects.a -Wl,--no-whole-archive -o memory_management.exe -Wl,--out-implib,libmemory_management.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\memory_management.dir\linklibs.rsp

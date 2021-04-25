@@ -12,6 +12,6 @@ struct Departments{
 };
 
 int main() {
- 
+
     return 0;
 }
