@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/classes_inheritance/cmake-build-debug/CMakeFiles/classes_inheritance.dir
+C:/Users/shako/CLionProjects/c++/classes_inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/classes_inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
