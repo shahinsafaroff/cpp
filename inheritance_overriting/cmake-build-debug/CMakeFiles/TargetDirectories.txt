@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/inheritance_overriting/cmake-build-debug/CMakeFiles/inheritance_overriting.dir
+C:/Users/shako/CLionProjects/c++/inheritance_overriting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shako/CLionProjects/c++/inheritance_overriting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

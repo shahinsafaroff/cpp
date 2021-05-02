@@ -1,0 +1,3 @@
+C:/Users/shako/CLionProjects/c++/file_handling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shako/CLionProjects/c++/file_handling/cmake-build-debug/CMakeFiles/file_handling.dir
+C:/Users/shako/CLionProjects/c++/file_handling/cmake-build-debug/CMakeFiles/edit_cache.dir

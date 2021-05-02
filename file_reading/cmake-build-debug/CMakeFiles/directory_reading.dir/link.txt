@@ -1,0 +1,3 @@
+C:\Users\shako\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\directory_reading.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\directory_reading.dir/objects.a @CMakeFiles\directory_reading.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\directory_reading.dir/objects.a -Wl,--no-whole-archive -o directory_reading.exe -Wl,--out-implib,libdirectory_reading.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\directory_reading.dir\linklibs.rsp
